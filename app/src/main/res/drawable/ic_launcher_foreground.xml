@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Chorus icon foreground: a "chorus" of three sparkles -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path android:fillColor="#F2C879" android:pathData="M50.00,34.00 Q53.84,54.16 74.00,58.00 Q53.84,61.84 50.00,82.00 Q46.16,61.84 26.00,58.00 Q46.16,54.16 50.00,34.00 Z" />
+    <path android:fillColor="#F4EEDF" android:pathData="M71.00,28.00 Q72.44,35.56 80.00,37.00 Q72.44,38.44 71.00,46.00 Q69.56,38.44 62.00,37.00 Q69.56,35.56 71.00,28.00 Z" />
+    <path android:fillColor="#E2A564" android:pathData="M70.00,71.50 Q70.88,76.12 75.50,77.00 Q70.88,77.88 70.00,82.50 Q69.12,77.88 64.50,77.00 Q69.12,76.12 70.00,71.50 Z" />
+</vector>
